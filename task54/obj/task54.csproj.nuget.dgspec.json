@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj": {}
+    "c:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj": {
+    "c:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj",
+        "projectUniqueName": "c:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj",
         "projectName": "task54",
-        "projectPath": "C:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj",
+        "projectPath": "c:\\Users\\acer\\Desktop\\C#lesson8\\task54\\task54.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\C#lesson8\\task54\\obj\\",
+        "outputPath": "c:\\Users\\acer\\Desktop\\C#lesson8\\task54\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
